@@ -4,12 +4,11 @@ Interactively Converting Ladder Diagrams into Grafcet Diagrams on a Robotic Neut
 
 ## Objective
 
-This repository was created to provide some additional information, as well as videos and figures, complementing the paper 'Interactively Converting Ladder Diagrams into Grafcet
-Diagrams on a Robotic Neutralization System Case Study'. 
+This repository was created to provide some additional information, as well as videos and figures, complementing the paper 'Interactively Converting Ladder Diagrams into Grafcet Diagrams on a Robotic Neutralization System Case Study', published on the Journal on Interactive Systems in 2026. 
 
 ## How to use
 
-This page does not provide the source code, but it provides some videos presenting the tests performed, as well as a step-by-step tutorial showing how to use the software. 
+This page does not provide the source code, but it provides some videos presenting the tests performed, as well as a step-by-step tutorial showing how to use the software, see https://pagiacomin.github.io/ladder-grafcet/. 
 
 ## Author
 
